@@ -55,6 +55,4 @@ Below are the dependencies used in this project:
 	--alarm alarm.wav
 ```
 
-## **Results:**
-![Example output](assets/output.gif)
 
